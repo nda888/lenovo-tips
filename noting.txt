@@ -1,0 +1,3 @@
+https://forums.lenovo.com/t5/ThinkPad-P-and-W-Series-Mobile/How-Do-I-Turn-Off-or-down-the-System-Sound-Effect/td-p/70830
+
+In BIOS, F1 at boot, then navigate toConfig > Alarm > Power Control Beep. If you disable this you shouldn't get the annoying beep.
